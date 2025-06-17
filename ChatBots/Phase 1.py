@@ -6,6 +6,7 @@ import string
 nltk.download('punkt')
 
 corpus = [
+    "Hi there!! How can I help you?",
     "We provide support for internet and mobile issues.",
     "You can reach us from 9 AM to 6 PM every day.",
     "Goodbye! Have a great day.",
